@@ -1,8 +1,12 @@
 package com.calculator;
-
-
 import java.util.Scanner;
-
+/**]
+ * Name : Gagandeep Singh
+ * Student ID: 201906363
+ * Date Submitted: March 20, 2021
+ * Class IN2203 G1
+ * Name of assignment: Calculator
+ */
 public class Calculator {
     Scanner sc = new Scanner(System.in);
     double firstNum, secondNum;
